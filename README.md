@@ -4,7 +4,7 @@ Sorts names by last name, then by given names. Each name has 1–3 given names f
 
 ## Requirements
 
-Node.js 20+. No dependencies.
+Node.js 22+. No dependencies.
 
 ## Run
 
